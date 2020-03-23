@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "364368614807",
+    "firebase_url": "https://serverapp-9bfb9.firebaseio.com",
+    "project_id": "serverapp-9bfb9",
+    "storage_bucket": "serverapp-9bfb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364368614807:android:2aa6ba3eb00c156be860d2",
+        "android_client_info": {
+          "package_name": "com.uylab.serverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364368614807-errcgj8669sebjcn1p37uijestt80fdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV2ajkfFndJxEIN0QFoTaADZafEBavXp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364368614807-errcgj8669sebjcn1p37uijestt80fdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
