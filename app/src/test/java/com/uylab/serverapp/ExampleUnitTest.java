@@ -1,4 +1,4 @@
-package com.uylab.serverapp;
+package com.laed.serverapp;
 
 import org.junit.Test;
 
